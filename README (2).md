@@ -161,7 +161,7 @@ When a user disconnects (intentional or network drop) the server immediately rem
 ## Author
 
 Chandan Thakur
-- GitHub: github.com/[your-username]
+- GitHub: github.com/lemon07zest
 - LinkedIn: linkedin.com/in/chandanthakur
 - Behance: behance.net/outcastthakur
 - Email: thakurchandan07c@gmail.com
